@@ -1,4 +1,4 @@
-### Projects and reading related to C#, ASP.NET, ArchLinux, Rust and other
+### Projects and reading related to C#, ASP.NET, ArchLinux, Rust and other software related topics. 
 
 [HTTP and SQL Profiling](http-sql-profiling.md)
 
