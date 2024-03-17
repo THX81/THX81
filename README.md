@@ -1,6 +1,10 @@
-### Hi there 👋
+### Projects and reading related to C#, ASP.NET, ArchLinux, Rust and other
 
-<!--
+[HTTP and SQL Profiling](http-sql-profiling.md)
+
+<!-- Hi there 👋
+
+
 **THX81/THX81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
