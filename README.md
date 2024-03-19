@@ -1,6 +1,7 @@
 ### Projects and reading related to C#, ASP.NET, ArchLinux, Rust and other software related topics. 
 
 [HTTP and SQL Profiling](http-sql-profiling.md)
+[JS MD5 Benchmark](js-md5-benchmark.md)
 
 <!-- Hi there 👋
 
